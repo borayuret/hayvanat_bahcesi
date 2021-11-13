@@ -35,7 +35,7 @@ public class Kopek extends Hayvan{
     @Override
     public String toString() {
         return  "Ad:"+getAd() + "\n" +
-                "Ağırlık: " +getAgirlik()+ " kg" + "\n" +
+                "Ağırlık: " +getAgirlik()+ " kilogram" + "\n" +
                 "Uzunluk: " +getUzunluk() + "\n" +
                 "Cins: " + getKopekCins() + "\n" +
                 "Kuyruk Uzunluğu: " + getKuyrukUzunlugu();
